@@ -1,0 +1,7 @@
+name: Tributes
+version: ${project.version}
+main: me.james31366.tributes.Tributes
+api-version: 1.15
+prefix: Tributes
+authors: [Vichisorn]
+description: use for Creative create Tributes and manage Tributes in GUI
