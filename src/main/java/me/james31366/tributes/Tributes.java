@@ -19,6 +19,7 @@ public final class Tributes extends JavaPlugin {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        return super.onCommand(sender, command, label, args);
+        
+        return false;
     }
 }
