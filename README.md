@@ -8,4 +8,3 @@
 - See yourself and friends stats.
 - Custom Crafting recipe use only a tribute.
 - Player prefixes that represents about players tributes.
-- Lock Weapons in games design.
